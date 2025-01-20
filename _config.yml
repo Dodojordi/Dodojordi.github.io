@@ -22,12 +22,12 @@ repository               : "Dodojordi/Dodojordi.github.io"
 author:
   # Biographic information
   avatar           : "head.jpg"
-  name             : "Dodojordi"
+  name             : "Dodojordi(YiZhuo Li)"
   pronouns         : "Boy😉"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Harbin, China(哈尔滨，中国)"
-  employer         : "Harbin Institute of Technology(哈尔滨工业大学)"
-  uri              : # URL
+  bio              : "SuperFan of Chelsea FC⚽✌️"
+  location         : "Harbin, China"
+  employer         : "Harbin Institute of Technology(HIT)"
+  uri              : "https://dodojordi.github.io"
   email            : "dodojordi2004@gmail.com" 
 
   # Academic websites
