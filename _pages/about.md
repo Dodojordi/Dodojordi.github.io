@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dodojordi's personal website"
+title: "Dodojordi"
 author_profile: true
 redirect_from: 
   - /about/

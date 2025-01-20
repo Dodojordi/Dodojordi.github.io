@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dodojordi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "YiZhuo Li"
 description              : &description "personal description"
 url                      : https://Dodojordi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "Dodojordi/Dodojordi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "head.png"
+  avatar           : "head.jpg"
   name             : "Your Sidebar Name"
   pronouns         : "boy😉"  
   bio              : "Short biography for the left-hand sidebar"
