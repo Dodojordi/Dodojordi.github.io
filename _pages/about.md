@@ -11,7 +11,7 @@ redirect_from:
 
 🎓 I’m a third-year B.Sc. student at Harbin Institute of Technology, majoring in Artificial Intelligence at the Computing Faculty.
 
-👓 I am broadly interested in computer vision and machine learning. My current research focuses on open-set object counting and multi-modal large language models(MLLMs).
+👓 I am broadly interested in Computer Vision and Machine Learning. My current research focuses on open-set object counting and multimodality.
 
 💭 I'm open to collaboration and discussions. Don't hesitate to contact me if you have any questions.
 
